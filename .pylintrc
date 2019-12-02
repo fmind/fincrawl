@@ -1,0 +1,10 @@
+[MESSAGES CONTROL]
+disable = 
+    invalid-name,
+    missing-docstring,
+    no-self-use,
+    redefined-builtin,
+    too-few-public-methods,
+    too-many-ancestors,
+    useless-object-inheritance
+

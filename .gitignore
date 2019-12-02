@@ -1,0 +1,4 @@
+.scrapy/
+__pycache__/
+downloaded_files/
+documents.jsonlines
